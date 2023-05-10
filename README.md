@@ -15,7 +15,7 @@ I am a Front-End (ReactJS) Developer <img src="https://media.giphy.com/media/WUl
 
 - :seedling: Exploring New Techs and Libraries.
 
-- :zap: In my free time, I solve problems on StackOverFlow and watch some tech videos in Youtube.
+- :zap: In my free time, I solve problems on StackOverFlow and watch some tech videos on Youtube.
 
 - :mailbox:How to reach me: (Skype) live:.cid.abbeb43e8e5eb8cc
 
